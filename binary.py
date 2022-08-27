@@ -1,10 +1,12 @@
-
+Gowtham
+Vdg
+Hd
 from timeit import default_timer
 pos=-1
 def search(list,n):
   l=0
   u=len(list)
-  whiluhjnb e l<=u:
+  while l<=u:
     mid=(l+u)//2
     if list[mid]==n:
        globals()["pos"]=mid
