@@ -4,7 +4,7 @@ pos=-1
 def search(list,n):
   l=0
   u=len(list)
-  while l<=u:
+  whiluhjnb e l<=u:
     mid=(l+u)//2
     if list[mid]==n:
        globals()["pos"]=mid
